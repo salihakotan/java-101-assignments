@@ -1,12 +1,14 @@
-# University Management System
+# University Management System :gem:
 
-**1-** Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
+1- There are classrooms, study offices, and departments belonging to the university.
 
-**2-** Departmanlara ait ofisler vardır.
+2- There are offices belonging to the departments.
 
-**3-** Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
+3- There are employees belonging to the university. These employees can be professors or clerks.
 
-**4-** Her çalışan bir ofiste çalışır.
+4- Each employee works in an office.
+
+---
 
 ## UML Diyagramı
 
