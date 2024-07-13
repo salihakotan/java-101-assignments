@@ -1,4 +1,4 @@
-# Flight Management System :gem:
+# Flight Management System UML :gem:
 
 Design a system for the management of flights and pilots.
 
