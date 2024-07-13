@@ -10,7 +10,7 @@
 
 ---
 
-## UML Diyagramı
+## UML Diagram
 
 ![preview](university_uml.png)
 
